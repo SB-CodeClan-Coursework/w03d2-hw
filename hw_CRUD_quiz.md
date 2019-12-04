@@ -51,4 +51,8 @@ Look at the `find_by_id` and `find_by_address` methods in the `Property` class.
 
 Q10. What do they take in as their arguments?
 
+they take in the address via the $1 thing.
+
 Q11. What are their return values?
+
+Property hash
