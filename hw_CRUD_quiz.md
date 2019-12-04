@@ -8,7 +8,7 @@ In our Property Tracker application:
 
 Q1. Where are we instantiating instances of the `Property` class?
 
-> property.db: lines 72, 84, 97; console.rb: 6, 15, 24
+> property.rb: lines 72, 84, 97; console.rb: 6, 15, 24
 
 Q2. Where are we defining the SQL that enables us to save the ruby `Property` object into the database?
 
